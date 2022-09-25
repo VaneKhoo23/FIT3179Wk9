@@ -41,7 +41,7 @@
         "color": {
           "field": "Migrants per 100k Population",
           "type": "quantitative",
-          "scale": {"domain": [98, 100], "scheme": "reds"}
+          "scale": {"domain": [99, 100], "scheme": "reds"}
         },
         "tooltip": [
           {"field": "properties.NAME", "type": "nominal", "title": "Country"},
