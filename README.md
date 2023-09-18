@@ -1,1 +1,3 @@
-# FIT3179Wk9
+# FIT3179
+
+## Project files for data visualisation with Vega and Vega-lite
